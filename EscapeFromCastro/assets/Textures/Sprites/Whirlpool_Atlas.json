@@ -1,0 +1,68 @@
+{ "frames": [
+   {
+    "filename": "Whirlpool_Left (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "Whirlpool_Left (2).aseprite",
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "Whirlpool_Left (3).aseprite",
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "Whirlpool_Left (4).aseprite",
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "Whirlpool_Left (5).aseprite",
+    "frame": { "x": 600, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "Whirlpool_Left (6).aseprite",
+    "frame": { "x": 750, "y": 0, "w": 150, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 48 },
+    "sourceSize": { "w": 150, "h": 48 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Whirlpool_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 900, "h": 48 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Whirlpool_Left", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

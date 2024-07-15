@@ -1,0 +1,127 @@
+{ "frames": [
+   {
+    "filename": "Shark_Left (0).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (1).aseprite",
+    "frame": { "x": 38, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (2).aseprite",
+    "frame": { "x": 76, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (3).aseprite",
+    "frame": { "x": 114, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (4).aseprite",
+    "frame": { "x": 114, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (5).aseprite",
+    "frame": { "x": 114, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (6).aseprite",
+    "frame": { "x": 152, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (7).aseprite",
+    "frame": { "x": 152, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (8).aseprite",
+    "frame": { "x": 152, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (9).aseprite",
+    "frame": { "x": 190, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (10).aseprite",
+    "frame": { "x": 190, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Left (11).aseprite",
+    "frame": { "x": 190, "y": 0, "w": 38, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 23 },
+    "sourceSize": { "w": 38, "h": 23 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Shark_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 228, "h": 23 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Shark_Left", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

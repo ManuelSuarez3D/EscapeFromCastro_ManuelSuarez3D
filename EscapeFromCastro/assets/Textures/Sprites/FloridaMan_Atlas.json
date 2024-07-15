@@ -1,0 +1,122 @@
+{ "frames": [
+   {
+    "filename": "FloridaMan_Left (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (2).aseprite",
+    "frame": { "x": 0, "y": 35, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (3).aseprite",
+    "frame": { "x": 0, "y": 70, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (4).aseprite",
+    "frame": { "x": 0, "y": 105, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (5).aseprite",
+    "frame": { "x": 0, "y": 140, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (6).aseprite",
+    "frame": { "x": 0, "y": 175, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (7).aseprite",
+    "frame": { "x": 0, "y": 210, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (8).aseprite",
+    "frame": { "x": 0, "y": 245, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (9).aseprite",
+    "frame": { "x": 0, "y": 280, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (10).aseprite",
+    "frame": { "x": 0, "y": 315, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (11).aseprite",
+    "frame": { "x": 0, "y": 350, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Left (12).aseprite",
+    "frame": { "x": 0, "y": 385, "w": 121, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 121, "h": 35 },
+    "sourceSize": { "w": 121, "h": 35 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "FloridaMan_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 121, "h": 420 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "FloridaMan_Left", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

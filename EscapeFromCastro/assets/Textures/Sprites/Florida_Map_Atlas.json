@@ -1,0 +1,95 @@
+{ "frames": [
+   {
+    "filename": "Florida_Map (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (2).aseprite",
+    "frame": { "x": 0, "y": 512, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (3).aseprite",
+    "frame": { "x": 0, "y": 1024, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (4).aseprite",
+    "frame": { "x": 0, "y": 1536, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (5).aseprite",
+    "frame": { "x": 0, "y": 2048, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (6).aseprite",
+    "frame": { "x": 0, "y": 2560, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (7).aseprite",
+    "frame": { "x": 0, "y": 3072, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (8).aseprite",
+    "frame": { "x": 0, "y": 3584, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   },
+   {
+    "filename": "Florida_Map (9).aseprite",
+    "frame": { "x": 0, "y": 4096, "w": 2800, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2800, "h": 512 },
+    "sourceSize": { "w": 2800, "h": 512 },
+    "duration": 1000
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Florida_Map_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 2800, "h": 4608 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Florida_Map", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

@@ -1,0 +1,95 @@
+{ "frames": [
+   {
+    "filename": "Tontana_Hit_Right (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (2).aseprite",
+    "frame": { "x": 0, "y": 63, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (3).aseprite",
+    "frame": { "x": 0, "y": 126, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (4).aseprite",
+    "frame": { "x": 0, "y": 189, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (5).aseprite",
+    "frame": { "x": 0, "y": 252, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (6).aseprite",
+    "frame": { "x": 0, "y": 315, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (7).aseprite",
+    "frame": { "x": 0, "y": 378, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (8).aseprite",
+    "frame": { "x": 0, "y": 441, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Hit_Right (9).aseprite",
+    "frame": { "x": 0, "y": 504, "w": 265, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 265, "h": 63 },
+    "sourceSize": { "w": 265, "h": 63 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Tontana_Hit_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 265, "h": 567 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Tontana_Hit_Right", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

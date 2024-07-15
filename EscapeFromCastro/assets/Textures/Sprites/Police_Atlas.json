@@ -1,0 +1,149 @@
+{ "frames": [
+   {
+    "filename": "Police_Left (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (2).aseprite",
+    "frame": { "x": 0, "y": 112, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (3).aseprite",
+    "frame": { "x": 0, "y": 224, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (4).aseprite",
+    "frame": { "x": 0, "y": 336, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (5).aseprite",
+    "frame": { "x": 0, "y": 448, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (6).aseprite",
+    "frame": { "x": 0, "y": 560, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (7).aseprite",
+    "frame": { "x": 0, "y": 672, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (8).aseprite",
+    "frame": { "x": 0, "y": 784, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (9).aseprite",
+    "frame": { "x": 0, "y": 896, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (10).aseprite",
+    "frame": { "x": 0, "y": 1008, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (11).aseprite",
+    "frame": { "x": 0, "y": 1120, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (12).aseprite",
+    "frame": { "x": 0, "y": 1232, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (13).aseprite",
+    "frame": { "x": 0, "y": 1344, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (14).aseprite",
+    "frame": { "x": 0, "y": 1456, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Left (15).aseprite",
+    "frame": { "x": 0, "y": 1568, "w": 328, "h": 112 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 328, "h": 112 },
+    "sourceSize": { "w": 328, "h": 112 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Police_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 328, "h": 1680 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Police_Left", "from": 0, "to": 14, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

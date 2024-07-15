@@ -1,0 +1,104 @@
+{ "frames": [
+   {
+    "filename": "Squid_Left (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (2).aseprite",
+    "frame": { "x": 152, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (3).aseprite",
+    "frame": { "x": 304, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (4).aseprite",
+    "frame": { "x": 456, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (5).aseprite",
+    "frame": { "x": 608, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (6).aseprite",
+    "frame": { "x": 760, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (7).aseprite",
+    "frame": { "x": 912, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (8).aseprite",
+    "frame": { "x": 1064, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (9).aseprite",
+    "frame": { "x": 1216, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Left (10).aseprite",
+    "frame": { "x": 1368, "y": 0, "w": 152, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 152, "h": 96 },
+    "sourceSize": { "w": 152, "h": 96 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Squid_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 1520, "h": 96 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Squid_Left", "from": 0, "to": 9, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

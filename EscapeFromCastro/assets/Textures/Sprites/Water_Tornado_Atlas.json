@@ -1,0 +1,68 @@
+{ "frames": [
+   {
+    "filename": "Water_Tornado (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tornado (2).aseprite",
+    "frame": { "x": 73, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tornado (3).aseprite",
+    "frame": { "x": 146, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tornado (4).aseprite",
+    "frame": { "x": 219, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tornado (5).aseprite",
+    "frame": { "x": 292, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tornado (6).aseprite",
+    "frame": { "x": 365, "y": 0, "w": 73, "h": 19 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 73, "h": 19 },
+    "sourceSize": { "w": 73, "h": 19 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Water_Tornado_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 438, "h": 19 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Water_Tornado", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

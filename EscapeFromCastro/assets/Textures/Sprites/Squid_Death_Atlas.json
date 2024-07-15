@@ -1,0 +1,203 @@
+{ "frames": [
+   {
+    "filename": "Squid_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (2).aseprite",
+    "frame": { "x": 0, "y": 120, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (3).aseprite",
+    "frame": { "x": 0, "y": 240, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (4).aseprite",
+    "frame": { "x": 0, "y": 360, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (5).aseprite",
+    "frame": { "x": 0, "y": 480, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (6).aseprite",
+    "frame": { "x": 0, "y": 600, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (7).aseprite",
+    "frame": { "x": 0, "y": 720, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (8).aseprite",
+    "frame": { "x": 0, "y": 840, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (9).aseprite",
+    "frame": { "x": 0, "y": 960, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (10).aseprite",
+    "frame": { "x": 0, "y": 1080, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (11).aseprite",
+    "frame": { "x": 0, "y": 1200, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (12).aseprite",
+    "frame": { "x": 0, "y": 1320, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (13).aseprite",
+    "frame": { "x": 0, "y": 1440, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (14).aseprite",
+    "frame": { "x": 0, "y": 1560, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (15).aseprite",
+    "frame": { "x": 0, "y": 1680, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (16).aseprite",
+    "frame": { "x": 0, "y": 1800, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (17).aseprite",
+    "frame": { "x": 0, "y": 1920, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (18).aseprite",
+    "frame": { "x": 0, "y": 2040, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (19).aseprite",
+    "frame": { "x": 0, "y": 2160, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (20).aseprite",
+    "frame": { "x": 0, "y": 2280, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   },
+   {
+    "filename": "Squid_Death (21).aseprite",
+    "frame": { "x": 0, "y": 2400, "w": 200, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 120 },
+    "sourceSize": { "w": 200, "h": 120 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Squid_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 200, "h": 2520 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Squid_Death", "from": 0, "to": 20, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{ "frames": [
+   {
+    "filename": "Miami_Loading (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (2).aseprite",
+    "frame": { "x": 414, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (3).aseprite",
+    "frame": { "x": 828, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (4).aseprite",
+    "frame": { "x": 1242, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (5).aseprite",
+    "frame": { "x": 1656, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (6).aseprite",
+    "frame": { "x": 2070, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (7).aseprite",
+    "frame": { "x": 2484, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (8).aseprite",
+    "frame": { "x": 2898, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (9).aseprite",
+    "frame": { "x": 3312, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (10).aseprite",
+    "frame": { "x": 3726, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (11).aseprite",
+    "frame": { "x": 4140, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   },
+   {
+    "filename": "Miami_Loading (12).aseprite",
+    "frame": { "x": 4554, "y": 0, "w": 414, "h": 442 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 414, "h": 442 },
+    "sourceSize": { "w": 414, "h": 442 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Miami_Loading_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 4968, "h": 442 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Miami_Loading", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

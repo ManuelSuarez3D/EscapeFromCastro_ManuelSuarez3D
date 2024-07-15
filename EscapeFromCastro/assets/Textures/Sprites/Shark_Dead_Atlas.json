@@ -1,0 +1,95 @@
+{ "frames": [
+   {
+    "filename": "Shark_Dead (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (2).aseprite",
+    "frame": { "x": 71, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (3).aseprite",
+    "frame": { "x": 142, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (4).aseprite",
+    "frame": { "x": 213, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (5).aseprite",
+    "frame": { "x": 284, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (6).aseprite",
+    "frame": { "x": 355, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (7).aseprite",
+    "frame": { "x": 426, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (8).aseprite",
+    "frame": { "x": 497, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   },
+   {
+    "filename": "Shark_Dead (9).aseprite",
+    "frame": { "x": 568, "y": 0, "w": 71, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 71, "h": 18 },
+    "sourceSize": { "w": 71, "h": 18 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Shark_Dead_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 639, "h": 18 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Shark_Dead", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

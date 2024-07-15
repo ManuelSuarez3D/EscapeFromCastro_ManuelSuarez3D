@@ -1,0 +1,224 @@
+{ "frames": [
+   {
+    "filename": "Military_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (2).aseprite",
+    "frame": { "x": 290, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (3).aseprite",
+    "frame": { "x": 580, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (4).aseprite",
+    "frame": { "x": 870, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (5).aseprite",
+    "frame": { "x": 1160, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (6).aseprite",
+    "frame": { "x": 1450, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (7).aseprite",
+    "frame": { "x": 1740, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (8).aseprite",
+    "frame": { "x": 2030, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (9).aseprite",
+    "frame": { "x": 2320, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (10).aseprite",
+    "frame": { "x": 2610, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (11).aseprite",
+    "frame": { "x": 2900, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (12).aseprite",
+    "frame": { "x": 3190, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (13).aseprite",
+    "frame": { "x": 3480, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (14).aseprite",
+    "frame": { "x": 3770, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (15).aseprite",
+    "frame": { "x": 4060, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (16).aseprite",
+    "frame": { "x": 4350, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (17).aseprite",
+    "frame": { "x": 4640, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (18).aseprite",
+    "frame": { "x": 4930, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (19).aseprite",
+    "frame": { "x": 5220, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (20).aseprite",
+    "frame": { "x": 5510, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (21).aseprite",
+    "frame": { "x": 5800, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Death (22).aseprite",
+    "frame": { "x": 6090, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Military_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 6380, "h": 100 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Military_Death", "from": 0, "to": 21, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Boat", "opacity": 255, "blendMode": "normal" },
+   { "name": "Water", "opacity": 255, "blendMode": "normal" },
+   { "name": "Helmet", "opacity": 255, "blendMode": "normal" },
+   { "name": "Barrel", "opacity": 255, "blendMode": "normal" },
+   { "name": "Wreck", "opacity": 255, "blendMode": "normal" },
+   { "name": "W_Wreck", "opacity": 255, "blendMode": "normal" },
+   { "name": "W_Helmet", "opacity": 255, "blendMode": "normal" },
+   { "name": "W_Barrel", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

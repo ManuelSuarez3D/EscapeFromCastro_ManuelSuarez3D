@@ -1,0 +1,95 @@
+{ "frames": [
+   {
+    "filename": "FloridaMan_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (2).aseprite",
+    "frame": { "x": 78, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (3).aseprite",
+    "frame": { "x": 156, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (4).aseprite",
+    "frame": { "x": 234, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (5).aseprite",
+    "frame": { "x": 312, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (6).aseprite",
+    "frame": { "x": 390, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (7).aseprite",
+    "frame": { "x": 468, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (8).aseprite",
+    "frame": { "x": 546, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   },
+   {
+    "filename": "FloridaMan_Death (9).aseprite",
+    "frame": { "x": 624, "y": 0, "w": 78, "h": 23 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 78, "h": 23 },
+    "sourceSize": { "w": 78, "h": 23 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "FloridaMan_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 702, "h": 23 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "FloridaMan_Death", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

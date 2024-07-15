@@ -1,0 +1,68 @@
+{ "frames": [
+   {
+    "filename": "Tornado_Left (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "Tornado_Left (2).aseprite",
+    "frame": { "x": 200, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "Tornado_Left (3).aseprite",
+    "frame": { "x": 400, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "Tornado_Left (4).aseprite",
+    "frame": { "x": 600, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "Tornado_Left (5).aseprite",
+    "frame": { "x": 800, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   },
+   {
+    "filename": "Tornado_Left (6).aseprite",
+    "frame": { "x": 1000, "y": 0, "w": 200, "h": 200 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 200, "h": 200 },
+    "sourceSize": { "w": 200, "h": 200 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Tornado_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 1200, "h": 200 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Tornado_Left", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

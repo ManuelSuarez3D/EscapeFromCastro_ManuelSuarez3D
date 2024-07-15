@@ -1,0 +1,41 @@
+{ "frames": [
+   {
+    "filename": "Water_Tree (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 250, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 21 },
+    "sourceSize": { "w": 250, "h": 21 },
+    "duration": 1000
+   },
+   {
+    "filename": "Water_Tree (2).aseprite",
+    "frame": { "x": 250, "y": 0, "w": 250, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 21 },
+    "sourceSize": { "w": 250, "h": 21 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Tree (3).aseprite",
+    "frame": { "x": 500, "y": 0, "w": 250, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 250, "h": 21 },
+    "sourceSize": { "w": 250, "h": 21 },
+    "duration": 1000
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Water_Tree_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 750, "h": 21 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Water_Tree", "from": 0, "to": 2, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

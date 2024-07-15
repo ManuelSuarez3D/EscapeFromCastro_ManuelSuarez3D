@@ -1,0 +1,27 @@
+# EscapeFromCastro Menu
+
+# Level	| Name |	| Values |
+World 			900 512
+Bkg			Menu 		0 0
+Strt1			Start01 	370 	226
+Strt2			Start02 	339 	219
+Lvls1			Levels01 	356 	278
+Lvls2			Levels02	320 	269
+Chapt1a			Chapters1a	251	232
+Chapt1b			Chapters1b	204	225
+Chapt2a			Chapters2a	251	298
+Chapt2b			Chapters2b	204	291
+Chapt3a			Chapters3a	250	364
+Chapt3b			Chapters3b	206	357
+Ctrls1			Controls01	316	328
+Ctrls2			Controls02	265	320
+Instrc			Instructions	169	244
+Creds1			Credits01	344	380
+Creds2			Credits02	301	372
+ByMe			ByMe		50	220
+Qut1			Quit01 		395 	432
+Qut2			Quit02 		371 	424
+Bck1			Back01		625	441
+Bck2			Back02		611	436
+Curtain 		Curtain		0	12
+CurtainTop 		CurtainTop	0	0	

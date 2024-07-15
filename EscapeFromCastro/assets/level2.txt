@@ -1,0 +1,56 @@
+# EscapeFromCastro Level2
+## SKILSCREEN BOLD FONT LENGTH 10 MAIN FFAA15 2ND FFFA00 ONE EACH SIDE OF MIDDLE, YELLOW LEFT
+# Level			| Name |		| Values |
+Lvl2			Level2			1400	256
+World						2800 	512
+PlayerSpeed 					250
+EnemySpeed  					125
+ScrollSpeed 					30
+
+Tornado			Tornado			0	0
+Squid 			Squid			0	0
+Shark 			Shark			0	0
+Whirlpool 		Whirlpool		0	0
+Coca 			Coca			0	0
+Bullet			Bullet			0	0
+
+Fony_Sprite		Fony_Sprite		0	0
+Tontana_Sprite		Tontana_Sprite		0	0
+Water_Tree_Sprite	Water_Tree_Sprite	0	0
+Water_Coral_Sprite	Water_Coral_Sprite	0	0
+Water_Coca_Sprite	Water_Coca_Sprite	0	0
+
+Menu1			Menu01			9	20
+Menu2			Menu02			9	20
+MenuT			MenuT			307	114
+Restart1M		Restart01 		332 	239
+Restart2M		Restart02 		274 	228
+UiSpecial		UiSpecial		34 	71
+Controls1M		Controls01 		322 	304
+Controls2M		Controls02 		276 	297
+Quit1M			Quit01 			400 	365
+Quit2M			Quit02	 		375 	356
+InstrcM			Instructions		169	228
+Back1M			Back01 			672 	418
+Back2M			Back02	 		659 	413
+GameOverT		GameOverT		136	138
+GameOverT		GameOverT		136	138
+Restart1G		Restart01 		327 	267
+Restart2G		Restart02 		269 	256
+Quit1G			Quit01 			397 	330
+Quit2G			Quit02	 		372 	319
+UiScore			UiScore 		62 	18
+UiCocaine1		UiCocaine01		66	79
+UiCocaine2		UiCocaine02		66	79
+UiCocaine3		UiCocaine03		66	79
+UiHp1			UiHp01			692 	27
+UiHp2			UiHp02			692 	27
+UiHp3  			UiHp03			692 	27
+UiHp4  			UiHp04			692 	27
+
+Chapter2a		Chapter2a		215	152
+Chapter2b		Chapter2b		215	152
+Player 			Player			0	21
+ProgressBar 		ProgressBar		252	27
+Curtain 		Curtain			0	12
+CurtainTop 		CurtainTop		0	0

@@ -1,0 +1,95 @@
+{ "frames": [
+   {
+    "filename": "Military_Dead (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (2).aseprite",
+    "frame": { "x": 290, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (3).aseprite",
+    "frame": { "x": 580, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (4).aseprite",
+    "frame": { "x": 870, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (5).aseprite",
+    "frame": { "x": 1160, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (6).aseprite",
+    "frame": { "x": 1450, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (7).aseprite",
+    "frame": { "x": 1740, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (8).aseprite",
+    "frame": { "x": 2030, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   },
+   {
+    "filename": "Military_Dead (9).aseprite",
+    "frame": { "x": 2320, "y": 0, "w": 290, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 100 },
+    "sourceSize": { "w": 290, "h": 100 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Military_Dead_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 2610, "h": 100 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Military_Dead", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+# EscapeFromCastro Credits
+
+# Level		| Name |	| Values |
+Curtain		Curtain 	0 0
+ScoreCredits	ScoreCredits 	0 0
+FinalCredits	FinalCredits	0 0
+Bck1		Back01		625	441
+Bck2		Back02		611	436
+#UiCocaine1	UiCocaine01		45	125
+#UiCocaine2	UiCocaine02		45	125
+#UiCocaine3	UiCocaine03		45	125
+#UiHp1		UiHp01			0 	0
+#UiHp2		UiHp02			0 	0
+#UiHp3  	UiHp03			0 	0

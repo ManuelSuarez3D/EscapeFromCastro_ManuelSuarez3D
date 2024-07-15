@@ -1,0 +1,239 @@
+{ "frames": [
+   {
+    "filename": "Tontana_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (2).aseprite",
+    "frame": { "x": 0, "y": 70, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (3).aseprite",
+    "frame": { "x": 0, "y": 140, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (4).aseprite",
+    "frame": { "x": 0, "y": 210, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (5).aseprite",
+    "frame": { "x": 0, "y": 280, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (6).aseprite",
+    "frame": { "x": 0, "y": 350, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (7).aseprite",
+    "frame": { "x": 0, "y": 420, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (8).aseprite",
+    "frame": { "x": 0, "y": 490, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (9).aseprite",
+    "frame": { "x": 0, "y": 560, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (10).aseprite",
+    "frame": { "x": 0, "y": 630, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (11).aseprite",
+    "frame": { "x": 0, "y": 700, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (12).aseprite",
+    "frame": { "x": 0, "y": 770, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (13).aseprite",
+    "frame": { "x": 0, "y": 840, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (14).aseprite",
+    "frame": { "x": 0, "y": 910, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (15).aseprite",
+    "frame": { "x": 0, "y": 980, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (16).aseprite",
+    "frame": { "x": 0, "y": 1050, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (17).aseprite",
+    "frame": { "x": 0, "y": 1120, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (18).aseprite",
+    "frame": { "x": 0, "y": 1190, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (19).aseprite",
+    "frame": { "x": 0, "y": 1260, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (20).aseprite",
+    "frame": { "x": 0, "y": 1330, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (21).aseprite",
+    "frame": { "x": 0, "y": 1400, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (22).aseprite",
+    "frame": { "x": 0, "y": 1470, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (23).aseprite",
+    "frame": { "x": 0, "y": 1540, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (24).aseprite",
+    "frame": { "x": 0, "y": 1610, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   },
+   {
+    "filename": "Tontana_Death (25).aseprite",
+    "frame": { "x": 0, "y": 1680, "w": 271, "h": 70 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 271, "h": 70 },
+    "sourceSize": { "w": 271, "h": 70 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Tontana_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 271, "h": 1750 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Tontana_Death", "from": 0, "to": 24, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

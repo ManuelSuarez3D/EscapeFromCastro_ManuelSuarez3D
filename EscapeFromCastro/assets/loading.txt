@@ -1,0 +1,5 @@
+# EscapeFromCastro Loading
+
+# Level		| Name |	| Values |
+CurtainFull	CurtainFull 	0 0
+LoadMap		CubaLoading	277 22

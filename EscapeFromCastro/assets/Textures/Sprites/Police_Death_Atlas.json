@@ -1,0 +1,212 @@
+{ "frames": [
+   {
+    "filename": "Police_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (2).aseprite",
+    "frame": { "x": 0, "y": 125, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (3).aseprite",
+    "frame": { "x": 0, "y": 250, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (4).aseprite",
+    "frame": { "x": 0, "y": 375, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (5).aseprite",
+    "frame": { "x": 0, "y": 500, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (6).aseprite",
+    "frame": { "x": 0, "y": 625, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (7).aseprite",
+    "frame": { "x": 0, "y": 750, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (8).aseprite",
+    "frame": { "x": 0, "y": 875, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (9).aseprite",
+    "frame": { "x": 0, "y": 1000, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (10).aseprite",
+    "frame": { "x": 0, "y": 1125, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (11).aseprite",
+    "frame": { "x": 0, "y": 1250, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (12).aseprite",
+    "frame": { "x": 0, "y": 1375, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (13).aseprite",
+    "frame": { "x": 0, "y": 1500, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (14).aseprite",
+    "frame": { "x": 0, "y": 1625, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (15).aseprite",
+    "frame": { "x": 0, "y": 1750, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (16).aseprite",
+    "frame": { "x": 0, "y": 1875, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (17).aseprite",
+    "frame": { "x": 0, "y": 2000, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (18).aseprite",
+    "frame": { "x": 0, "y": 2125, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (19).aseprite",
+    "frame": { "x": 0, "y": 2250, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (20).aseprite",
+    "frame": { "x": 0, "y": 2375, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (21).aseprite",
+    "frame": { "x": 0, "y": 2500, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   },
+   {
+    "filename": "Police_Death (22).aseprite",
+    "frame": { "x": 0, "y": 2625, "w": 290, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 290, "h": 125 },
+    "sourceSize": { "w": 290, "h": 125 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Police_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 290, "h": 2750 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Police_Death", "from": 0, "to": 21, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

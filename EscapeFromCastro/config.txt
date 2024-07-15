@@ -1,0 +1,365 @@
+# GameEngine Config
+Window  900 512
+
+# Font    Arial           ../assets/fonts/arial.ttf
+# Font    main            ../assets/fonts/Sansation.ttf
+Font    Arcade           ../assets/fonts/arcadeclassic.regular.ttf
+
+Music menuTheme         	 ../assets/Music/dp_menu.flac
+Music level1Theme         	 ../assets/Music/dp_level1.flac
+Music specialTheme        	 ../assets/Music/dp_special.flac
+Music loadingTheme        	 ../assets/Music/dp_loading.flac
+Music bermudaTheme        	 ../assets/Music/dp_bermuda.flac
+Music floridaTheme        	 ../assets/Music/dp_florida.flac
+	
+# Music missionTheme     	 ../assets/Music/tweener.ogg
+
+# Textures
+Texture 	Menu      		../assets/Textures/menu.png
+Texture 	Level1      		../assets/Textures/cuba.png
+Texture		Level2			../assets/Textures/bermuda.png
+Texture		Level3			../assets/Textures/florida.png
+
+Texture		Player			../assets/Textures/Sprites/player.png
+Texture		ProgressBar		../assets/Textures/Sprites/bar.png
+	
+Texture 	Start01         	../assets/Textures/start_01.png
+Texture 	Start02         	../assets/Textures/start_02.png
+
+Texture		Levels01		../assets/Textures/levels_01.png
+Texture		Levels02		../assets/Textures/levels_02.png
+Texture		Chapters1a		../assets/Textures/chapter1_01.png
+Texture		Chapters1b		../assets/Textures/chapter1_02.png
+Texture		Chapters2a		../assets/Textures/chapter2_01.png
+Texture		Chapters2b		../assets/Textures/chapter2_02.png
+Texture		Chapters3a		../assets/Textures/chapter3_01.png
+Texture		Chapters3b		../assets/Textures/chapter3_02.png
+
+Texture 	Controls01     		../assets/Textures/controls_01.png
+Texture 	Controls02     		../assets/Textures/controls_02.png
+
+Texture 	Instructions    	../assets/Textures/instructions_01.png
+
+Texture		ScoreCredits		../assets/Textures/scoreCredits.png
+Texture		FinalCredits		../assets/Textures/finalCredits.png
+
+Texture 	Credits01     		../assets/Textures/credits_01.png
+Texture 	Credits02     		../assets/Textures/credits_02.png
+Texture 	ByMe     		../assets/Textures/byme_01.png
+
+Texture 	Quit01          	../assets/Textures/quit_01.png
+Texture 	Quit02          	../assets/Textures/quit_02.png
+
+Texture 	Restart01       	../assets/Textures/restart_01.png
+Texture 	Restart02       	../assets/Textures/restart_02.png
+Texture 	Back01          	../assets/Textures/back_01.png
+Texture 	Back02          	../assets/Textures/back_02.png
+
+Texture 	UiSpecial      		../assets/Textures/ui_special.png
+Texture 	UiScore          	../assets/Textures/ui_score.png
+
+Texture 	UiHp01          	../assets/Textures/Sprites/ui_hp01.png
+Texture 	UiHp02          	../assets/Textures/Sprites/ui_hp02.png
+Texture 	UiHp03          	../assets/Textures/Sprites/ui_hp03.png
+Texture 	UiHp04          	../assets/Textures/Sprites/ui_hp04.png
+
+Texture 	UiCocaine01     	../assets/Textures/ui_cocaine01.png
+Texture 	UiCocaine02     	../assets/Textures/ui_cocaine02.png
+Texture 	UiCocaine03    		../assets/Textures/ui_cocaine03.png
+
+Texture 	Chapter1a       	../assets/Textures/chapter_01a.png
+Texture 	Chapter1b       	../assets/Textures/chapter_01b.png
+Texture 	Chapter2a       	../assets/Textures/chapter_02a.png
+Texture 	Chapter2b       	../assets/Textures/chapter_02b.png
+Texture 	Chapter3a       	../assets/Textures/chapter_03a.png
+Texture 	Chapter3b       	../assets/Textures/chapter_03b.png
+
+Texture 	GameOverT        	../assets/Textures/gameover_01.png
+
+Texture 	Menu01        		../assets/Textures/menu_01.png
+Texture 	Menu02       		../assets/Textures/menu_02.png
+Texture 	MenuT        		../assets/Textures/menutitle.png
+
+Texture 	Coca			../assets/Textures/Sprites/Coca_01.png
+Texture 	Shark   		../assets/Textures/Sprites/Shark_01.png
+
+Texture		Cursor			../assets/Textures/Sprites/cursor.png
+
+Texture 	Coral       		../assets/Textures/Sprites/Coral_01.png
+Texture 	CoralBroken       	../assets/Textures/Sprites/Coral_Broken.png
+
+Texture 	Island        		../assets/Textures/Sprites/Island_01.png
+Texture 	Island_Atlas        	../assets/Textures/Sprites/Island_Atlas.png
+
+Texture 	Bullet			../assets/Textures/Sprites/bullet.png
+Texture 	Military   		../assets/Textures/Sprites/Military_01.png
+Texture 	Squid   		../assets/Textures/Sprites/Squid_01.png
+Texture		Tornado			../assets/Textures/Sprites/Tornado_01.png
+Texture		Whirlpool		../assets/Textures/Sprites/Whirlpool_01.png
+Texture		Police			../assets/Textures/Sprites/Police_01.png
+Texture		FloridaMan		../assets/Textures/Sprites/FloridaMan_01.png
+Texture		Dune			../assets/Textures/Sprites/Dune_01.png
+
+Texture 	Tontana_Sprite   	../assets/Textures/Sprites/Tontana_Sprite.png
+Texture 	Tontana_Death_Atlas  	../assets/Textures/Sprites/Tontana_Death_Atlas.png
+Texture 	Tontana_Dead_Atlas  	../assets/Textures/Sprites/Tontana_Dead_Atlas.png
+Texture 	Fony_Sprite 		../assets/Textures/Sprites/Fony_Sprite.png
+Texture 	Fony_Death_Atlas  	../assets/Textures/Sprites/Fony_Death_Atlas.png
+Texture 	Fony_Dead_Atlas  	../assets/Textures/Sprites/Fony_Dead_Atlas.png
+
+Texture 	Water_Tree_Sprite       ../assets/Textures/Sprites/Water_Tree_01.png
+Texture 	Water_Coral_Sprite      ../assets/Textures/Sprites/Water_Coral_01.png
+Texture 	Water_Coca_Sprite       ../assets/Textures/Sprites/Water_Coca_01.png
+Texture 	Water_Squid_Sprite       ../assets/Textures/Sprites/Water_Squid_Sprite.png
+
+Texture 	Shark_Atlas  		../assets/Textures/Sprites/Shark_Atlas.png
+Texture 	Shark_Death_Atlas  	../assets/Textures/Sprites/Shark_Death_Atlas.png
+Texture 	Shark_Dead_Atlas  	../assets/Textures/Sprites/Shark_Dead_Atlas.png
+
+Texture		Cuba_Map_Atlas		../assets/Textures/Sprites/Cuba_Map_Atlas.png
+Texture		Bermuda_Map_Atlas	../assets/Textures/Sprites/Bermuda_Map_Atlas.png
+Texture		Florida_Map_Atlas	../assets/Textures/Sprites/Florida_Map_Atlas.png
+
+Texture 	Water_Squid_Atlas       ../assets/Textures/Sprites/Water_Squid_Atlas.png
+Texture 	Water_Tree_Atlas        ../assets/Textures/Sprites/Water_Tree_Atlas.png
+Texture 	Water_Coral_Atlas       ../assets/Textures/Sprites/Water_Coral_Atlas.png
+Texture 	Fony_Idle_Atlas 	../assets/Textures/Sprites/Fony_Idle_Atlas.png
+Texture 	Fony_Hit_Atlas 		../assets/Textures/Sprites/Fony_Hit_Atlas.png
+Texture 	Water_Coca_Atlas        ../assets/Textures/Sprites/Water_Coca_Atlas.png
+Texture 	Tontana_Idle_Atlas   	../assets/Textures/Sprites/Tontana_Idle_Atlas.png
+Texture 	Tontana_Hit_Atlas   	../assets/Textures/Sprites/Tontana_Hit_Atlas.png
+Texture 	Tontana_Fire_Atlas   	../assets/Textures/Sprites/Tontana_Fire_Atlas.png
+
+Texture 	Military_Atlas   	../assets/Textures/Sprites/Military_Atlas.png
+Texture 	Military_Death_Atlas  	../assets/Textures/Sprites/Military_Death_Atlas.png
+Texture 	Military_Dead_Atlas  	../assets/Textures/Sprites/Military_Dead_Atlas.png
+
+Texture 	Squid_Atlas   		../assets/Textures/Sprites/Squid_Atlas.png
+Texture 	Squid_Death_Atlas   		../assets/Textures/Sprites/Squid_Death_Atlas.png
+Texture 	Tornado_Atlas   	../assets/Textures/Sprites/Tornado_Atlas.png
+Texture 	Coca_Atlas   		../assets/Textures/Sprites/Coca_Atlas.png
+Texture		Whirlpool_Atlas		../assets/Textures/Sprites/Whirlpool_Atlas.png
+
+Texture 	Police_Atlas   		../assets/Textures/Sprites/Police_Atlas.png
+Texture 	Police_Death_Atlas  	../assets/Textures/Sprites/Police_Death_Atlas.png
+Texture 	Police_Dead_Atlas  	../assets/Textures/Sprites/Police_Dead_Atlas.png
+
+Texture		FloridaMan_Atlas	../assets/Textures/Sprites/FloridaMan_Atlas.png
+Texture		FloridaMan_Death_Atlas	../assets/Textures/Sprites/FloridaMan_Death_Atlas.png
+Texture		FloridaMan_Dead_Atlas	../assets/Textures/Sprites/FloridaMan_Dead_Atlas.png
+
+Texture 	Bermuda_Loading_Atlas  	../assets/Textures/Sprites/Bermuda_Loading_Atlas.png
+Texture 	USA_Loading_Atlas   	../assets/Textures/Sprites/USA_Loading_Atlas.png
+Texture 	Credits_Loading_Atlas  	../assets/Textures/Sprites/Credits_Loading_Atlas.png
+
+Texture 	Curtain			../assets/Textures/curtain.png
+Texture 	CurtainTop		../assets/Textures/curtain_top.png
+Texture 	CurtainFull		../assets/Textures/curtainFull.png
+Texture 	CubaLoading		../assets/Textures/Sprites/cubaLoading.png
+
+# Sprites
+Sprite Menu       		Menu   			0 0 
+Sprite Level1       		Level1   		0 0
+Sprite Level2			Level2			0 0
+Sprite Level3			Level3			0 0
+Sprite Cursor       		Cursor   		0 0
+
+Sprite	ScoreCredits		ScoreCredits 		0 0
+Sprite	FinalCredits		FinalCredits		0 0
+
+Sprite	Player			Player 			0 0
+Sprite	ProgressBar		ProgressBar		0 0
+
+Sprite	Levels01		Levels01 		0 0
+Sprite	Levels02		Levels02		0 0
+Sprite	Chapters1a		Chapters1a		0 0
+Sprite	Chapters1b		Chapters1b		0 0
+Sprite	Chapters2a		Chapters2a		0 0
+Sprite	Chapters2b		Chapters2b		0 0
+Sprite	Chapters3a		Chapters3a		0 0
+Sprite	Chapters3b		Chapters3b		0 0
+Sprite	Credits01		Credits01		0 0
+Sprite	Credits02		Credits02		0 0
+Sprite	ByMe			ByMe			0 0
+
+Sprite Start01         		Start01			0 0
+Sprite Start02         		Start02			0 0
+
+Sprite Controls01         	Controls01		0 0
+Sprite Controls02         	Controls02		0 0 
+
+Sprite Quit01          		Quit01			0 0 
+Sprite Quit02        		Quit02			0 0
+
+Sprite Back01          		Back01			0 0 
+Sprite Back02        		Back02			0 0
+
+Sprite Restart01          	Restart01		0 0 
+Sprite Restart02        	Restart02		0 0
+
+Sprite Instructions		Instructions		0 0
+Sprite GameOverT          	GameOverT		0 0
+
+Sprite Chapter1a         	Chapter1a		0 0
+Sprite Chapter1b         	Chapter1b		0 0
+Sprite Chapter2a         	Chapter2a		0 0
+Sprite Chapter2b         	Chapter2b		0 0
+Sprite Chapter3a         	Chapter3a		0 0
+Sprite Chapter3b         	Chapter3b		0 0
+
+Sprite Menu01			Menu01			0 0
+Sprite Menu02			Menu02			0 0
+Sprite MenuT			MenuT			0 0
+Sprite UiSpecial       		UiSpecial		0 0
+Sprite UiScore       		UiScore			0 0
+
+Sprite UiHp01          		Hp01			0 0
+Sprite UiHp02          		Hp02			0 0
+Sprite UiHp03          		Hp03			0 0
+Sprite UiHp04          		Hp04			0 0
+
+Sprite UiCocaine01         	UiCocaine01		0 0
+Sprite UiCocaine02         	UiCocaine02		0 0
+Sprite UiCocaine03         	UiCocaine03		0 0
+
+Sprite CurtainFull         	CurtainFull		0 0
+Sprite Curtain			Curtain                 0 0
+Sprite CurtainTop		CurtainTop		0 0
+
+Sprite Tornado			Tornado			0 0
+Sprite Whirlpool		Whirlpool		0 0
+Sprite Police       		Police			0 0
+Sprite Dune       		Dune			0 0
+Sprite FloridaMan       	FloridaMan		0 0
+Sprite Island  		       	Island			0 0
+Sprite Coral	         	Coral			0 0
+Sprite CoralBroken	        CoralBroken		0 0
+Sprite Military       		Military		0 0
+Sprite Squid       		Squid			0 0
+Sprite Shark       		Shark			0 0
+Sprite Coca       		Coca			0 0
+Sprite Bullet       		Bullet			0 0
+
+Sprite CubaLoading		CubaLoading		0 0
+Sprite Fony_Sprite       	Fony_Sprite		0 0
+Sprite Tontana_Sprite       	Tontana_Sprite  	0 0
+Sprite Water_Tree_Sprite       	Water_Tree_Sprite  	0 0
+Sprite Water_Coral_Sprite       Water_Coral_Sprite  	0 0
+Sprite Water_Coca_Sprite      	Water_Coca_Sprite  	0 0
+Sprite Water_Squid_Sprite      	Water_Squid_Sprite  	0 0
+Sprite Water_Tornado_Sprite     Water_Tornado_Sprite  	0 0
+
+#
+# SOUNDS
+
+Sound 		menuPing              ../assets/Sound/dp_one_beep.flac
+Sound 		gunShot               ../assets/Sound/laserShoot.wav
+Sound 		hitHurt              	../assets/Sound/hitHurt.wav
+Sound 		ehitHurt              	../assets/Sound/ehitHurt.wav
+Sound 		eExplosion              ../assets/Sound/explosion.wav
+Sound 		pickUp              	../assets/Sound/pickUp.wav
+Sound 		powerUp              	../assets/Sound/powerUp.wav
+Sound 		gameOver              	../assets/Sound/gameOver1.wav
+Sound 		gameStart              	../assets/Sound/gameStart.wav
+
+JSON            ../assets/Textures/Sprites/Police_Atlas.json
+JSON      	../assets/Textures/Sprites/Police_Death_Atlas.json
+JSON      	../assets/Textures/Sprites/Police_Dead_Atlas.json
+
+JSON            ../assets/Textures/Sprites/FloridaMan_Atlas.json
+JSON      	../assets/Textures/Sprites/FloridaMan_Death_Atlas.json
+JSON      	../assets/Textures/Sprites/FloridaMan_Dead_Atlas.json
+
+JSON            ../assets/Textures/Sprites/Military_Atlas.json
+JSON      	../assets/Textures/Sprites/Military_Death_Atlas.json
+JSON      	../assets/Textures/Sprites/Military_Dead_Atlas.json
+
+JSON            ../assets/Textures/Sprites/Squid_Atlas.json
+JSON            ../assets/Textures/Sprites/Squid_Death_Atlas.json
+
+JSON            ../assets/Textures/Sprites/Tornado_Atlas.json
+JSON		../assets/Textures/Sprites/Whirlpool_Atlas.json
+
+JSON      	../assets/Textures/Sprites/Shark_Atlas.json
+JSON      	../assets/Textures/Sprites/Shark_Death_Atlas.json
+JSON      	../assets/Textures/Sprites/Shark_Dead_Atlas.json
+
+JSON      	../assets/Textures/Sprites/Coca_Atlas.json
+
+JSON      	../assets/Textures/Sprites/Island_Atlas.json
+
+JSON		../assets/Textures/Sprites/Cuba_Map_Atlas.json
+JSON		../assets/Textures/Sprites/Bermuda_Map_Atlas.json
+JSON		../assets/Textures/Sprites/Florida_Map_Atlas.json
+
+JSON		../assets/Textures/Sprites/Tontana_Idle_Atlas.json
+JSON		../assets/Textures/Sprites/Tontana_Fire_Atlas.json
+JSON		../assets/Textures/Sprites/Tontana_Hit_Atlas.json
+JSON		../assets/Textures/Sprites/Tontana_Death_Atlas.json
+JSON		../assets/Textures/Sprites/Tontana_Dead_Atlas.json
+
+JSON		../assets/Textures/Sprites/Fony_Idle_Atlas.json
+JSON		../assets/Textures/Sprites/Fony_Hit_Atlas.json
+JSON		../assets/Textures/Sprites/Fony_Death_Atlas.json
+JSON		../assets/Textures/Sprites/Fony_Dead_Atlas.json
+
+JSON		../assets/Textures/Sprites/Water_Tree_Atlas.json
+JSON		../assets/Textures/Sprites/Water_Coral_Atlas.json
+JSON		../assets/Textures/Sprites/Water_Coca_Atlas.json
+JSON		../assets/Textures/Sprites/Water_Squid_Atlas.json
+
+JSON		../assets/Textures/Sprites/Bermuda_Loading_Atlas.json
+JSON		../assets/Textures/Sprites/USA_Loading_Atlas.json
+JSON		../assets/Textures/Sprites/Credits_Loading_Atlas.json
+
+#
+#  Animation    Name            	Texture     		Speed   Repeats
+Animation       Military_Left    	Military_Atlas    	12      yes
+Animation      	Military_Death  	Military_Death_Atlas  	3       no
+Animation      	Military_Dead  	 	Military_Dead_Atlas  	7       yes
+
+Animation	Squid_Left		Squid_Atlas		3	yes
+Animation	Squid_Death		Squid_Death_Atlas	4	no
+
+Animation	Whirlpool_Left		Whirlpool_Atlas		6	yes
+Animation	Tornado_Left		Tornado_Atlas		6	yes
+
+Animation       Shark_Left  	 	Shark_Atlas  		12      yes
+Animation      	Shark_Death  	 	Shark_Death_Atlas  	3       no
+Animation      	Shark_Dead  	 	Shark_Dead_Atlas  	7       yes
+
+Animation       Island_Anim  	 	Island_Atlas  	  	4       yes
+	
+Animation       Coca_Left  	 	Coca_Atlas  	  	3       yes
+Animation	Cuba_Map		Cuba_Map_Atlas		3	yes
+Animation	Bermuda_Map		Bermuda_Map_Atlas	3	yes
+Animation	Florida_Map		Florida_Map_Atlas	3	yes
+
+Animation	Tontana_Idle_Right	Tontana_Idle_Atlas	9 	yes
+Animation	Tontana_Hit_Right	Tontana_Hit_Atlas	9 	yes
+Animation	Tontana_Fire_Right	Tontana_Fire_Atlas	9 	yes
+Animation	Tontana_Death		Tontana_Death_Atlas	4 	no
+Animation	Tontana_Dead		Tontana_Dead_Atlas	7	yes
+
+Animation	Fony_Idle_Right		Fony_Idle_Atlas		12 	yes
+Animation	Fony_Hit_Right		Fony_Hit_Atlas		12 	yes
+Animation	Fony_Death		Fony_Death_Atlas	4 	no
+Animation	Fony_Dead		Fony_Dead_Atlas		7 	yes
+
+Animation	Water_Tree		Water_Tree_Atlas	3	yes
+Animation	Water_Coral		Water_Coral_Atlas	3	yes
+Animation	Water_Coca		Water_Coca_Atlas	3	yes
+Animation	Water_Squid		Water_Squid_Atlas	3	yes
+
+Animation	Bermuda_Loading		Bermuda_Loading_Atlas	3	no
+Animation	USA_Loading		USA_Loading_Atlas	3	no
+Animation	Credits_Loading		Credits_Loading_Atlas	2	no
+
+Animation       Police_Left    		Police_Atlas    	12      yes
+Animation      	Police_Death  		Police_Death_Atlas  	3       no
+Animation      	Police_Dead  	 	Police_Dead_Atlas  	7       yes
+
+Animation	FloridaMan_Left		FloridaMan_Atlas	8	yes
+Animation	FloridaMan_Dead		FloridaMan_Dead_Atlas	3       yes
+Animation	FloridaMan_Death	FloridaMan_Death_Atlas	3	no
+

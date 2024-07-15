@@ -1,0 +1,41 @@
+{ "frames": [
+   {
+    "filename": "Water_Coral (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 117, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 117, "h": 21 },
+    "sourceSize": { "w": 117, "h": 21 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Coral (2).aseprite",
+    "frame": { "x": 117, "y": 0, "w": 117, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 117, "h": 21 },
+    "sourceSize": { "w": 117, "h": 21 },
+    "duration": 100
+   },
+   {
+    "filename": "Water_Coral (3).aseprite",
+    "frame": { "x": 234, "y": 0, "w": 117, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 117, "h": 21 },
+    "sourceSize": { "w": 117, "h": 21 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Water_Coral_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 351, "h": 21 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Water_Coral", "from": 0, "to": 2, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

@@ -1,0 +1,131 @@
+{ "frames": [
+   {
+    "filename": "Credits_Loading (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (2).aseprite",
+    "frame": { "x": 345, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (3).aseprite",
+    "frame": { "x": 690, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (4).aseprite",
+    "frame": { "x": 1035, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (5).aseprite",
+    "frame": { "x": 1380, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (6).aseprite",
+    "frame": { "x": 1725, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (7).aseprite",
+    "frame": { "x": 2070, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (8).aseprite",
+    "frame": { "x": 2415, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (9).aseprite",
+    "frame": { "x": 2760, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (10).aseprite",
+    "frame": { "x": 3105, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (11).aseprite",
+    "frame": { "x": 3450, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (12).aseprite",
+    "frame": { "x": 3795, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   },
+   {
+    "filename": "Credits_Loading (13).aseprite",
+    "frame": { "x": 4140, "y": 0, "w": 345, "h": 368 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 345, "h": 368 },
+    "sourceSize": { "w": 345, "h": 368 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Credits_Loading_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 4485, "h": 368 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Credits_Loading", "from": 0, "to": 12, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

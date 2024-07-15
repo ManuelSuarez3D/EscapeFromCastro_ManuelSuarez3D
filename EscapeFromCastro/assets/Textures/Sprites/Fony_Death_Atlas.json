@@ -1,0 +1,239 @@
+{ "frames": [
+   {
+    "filename": "Fony_Death (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (2).aseprite",
+    "frame": { "x": 0, "y": 58, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (3).aseprite",
+    "frame": { "x": 0, "y": 116, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (4).aseprite",
+    "frame": { "x": 0, "y": 174, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (5).aseprite",
+    "frame": { "x": 0, "y": 232, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (6).aseprite",
+    "frame": { "x": 0, "y": 290, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (7).aseprite",
+    "frame": { "x": 0, "y": 348, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (8).aseprite",
+    "frame": { "x": 0, "y": 406, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (9).aseprite",
+    "frame": { "x": 0, "y": 464, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (10).aseprite",
+    "frame": { "x": 0, "y": 522, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (11).aseprite",
+    "frame": { "x": 0, "y": 580, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (12).aseprite",
+    "frame": { "x": 0, "y": 638, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (13).aseprite",
+    "frame": { "x": 0, "y": 696, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (14).aseprite",
+    "frame": { "x": 0, "y": 754, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (15).aseprite",
+    "frame": { "x": 0, "y": 812, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (16).aseprite",
+    "frame": { "x": 0, "y": 870, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (17).aseprite",
+    "frame": { "x": 0, "y": 928, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (18).aseprite",
+    "frame": { "x": 0, "y": 986, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (19).aseprite",
+    "frame": { "x": 0, "y": 1044, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (20).aseprite",
+    "frame": { "x": 0, "y": 1102, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (21).aseprite",
+    "frame": { "x": 0, "y": 1160, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (22).aseprite",
+    "frame": { "x": 0, "y": 1218, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (23).aseprite",
+    "frame": { "x": 0, "y": 1276, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (24).aseprite",
+    "frame": { "x": 0, "y": 1334, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   },
+   {
+    "filename": "Fony_Death (25).aseprite",
+    "frame": { "x": 0, "y": 1392, "w": 188, "h": 58 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 188, "h": 58 },
+    "sourceSize": { "w": 188, "h": 58 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Fony_Death_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 188, "h": 1450 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Fony_Death", "from": 0, "to": 24, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

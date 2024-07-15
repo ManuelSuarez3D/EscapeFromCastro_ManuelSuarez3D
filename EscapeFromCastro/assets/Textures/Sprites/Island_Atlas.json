@@ -1,0 +1,122 @@
+{ "frames": [
+   {
+    "filename": "Island_Anim (1).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (2).aseprite",
+    "frame": { "x": 0, "y": 148, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (3).aseprite",
+    "frame": { "x": 0, "y": 296, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (4).aseprite",
+    "frame": { "x": 0, "y": 444, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (5).aseprite",
+    "frame": { "x": 0, "y": 592, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (6).aseprite",
+    "frame": { "x": 0, "y": 740, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (7).aseprite",
+    "frame": { "x": 0, "y": 888, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (8).aseprite",
+    "frame": { "x": 0, "y": 1036, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (9).aseprite",
+    "frame": { "x": 0, "y": 1184, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (10).aseprite",
+    "frame": { "x": 0, "y": 1332, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (11).aseprite",
+    "frame": { "x": 0, "y": 1480, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   },
+   {
+    "filename": "Island_Anim (12).aseprite",
+    "frame": { "x": 0, "y": 1628, "w": 136, "h": 148 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 136, "h": 148 },
+    "sourceSize": { "w": 136, "h": 148 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Island_Atlas.png",
+  "format": "RGBA8888",
+  "size": { "w": 136, "h": 1776 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Island_Anim", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}
