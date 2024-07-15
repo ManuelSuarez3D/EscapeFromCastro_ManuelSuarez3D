@@ -83,7 +83,7 @@ Texture 	MenuT        		../assets/Textures/menutitle.png
 Texture 	Coca			../assets/Textures/Sprites/Coca_01.png
 Texture 	Shark   		../assets/Textures/Sprites/Shark_01.png
 
-Texture		Cursor			../assets/Textures/Sprites/cursor.png
+Texture		Cursor			../assets/Textures/Sprites/cursor_01.png
 
 Texture 	Coral       		../assets/Textures/Sprites/Coral_01.png
 Texture 	CoralBroken       	../assets/Textures/Sprites/Coral_Broken.png
