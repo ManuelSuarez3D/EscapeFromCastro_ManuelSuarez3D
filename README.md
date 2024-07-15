@@ -1,5 +1,5 @@
 # Escape From Castro by Manuel Suarez
-
+### C++ | SFML | Visual Studio Code
 
 # Summary
 "Escape to Freedom" is a thrilling adventure game where players assume the role of Fony Tontana, a 30-year-old Cuban refugee escaping Fidel Castro's dictatorship. In this quest, players navigate the perilous waters around Cuba, brave the challenging conditions of the Gulf of Mexico, and strategically reach the coastal waters of the U.S.A. on a boat. Evading wildlife, security forces, and harsh weather, players must survive and ultimately reach the coveted destination of Miami, Florida, for a chance at a better life. 
