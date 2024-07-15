@@ -614,7 +614,7 @@ void Scene_Cuba::init() {
     spawnPlayer(spawnPos);
 
     SoundPlayer::getInstance().play("gameStart");
-    MusicPlayer::getInstance().play("gameTheme");
+    MusicPlayer::getInstance().play("cubaTheme");
     MusicPlayer::getInstance().setVolume(45);
    
 }
@@ -2033,9 +2033,7 @@ void Scene_Cuba::spawnBullet(std::shared_ptr<Entity> e) {
         bullet->addComponent<CType>().bullet = true;
         bullet->addComponent<CType>().entity = true;
 
-        //Set volume?
         SoundPlayer::getInstance().play("gunShot");
-
     }
 }
 #pragma endregion
@@ -2187,7 +2185,7 @@ void Scene_Cuba::specialState() {
             auto spriteSize = sprite.getLocalBounds().getSize();
             m_player->addComponent<CBoundingBox>(spriteSize);
 
-            MusicPlayer::getInstance().play("bermudaTheme");
+            MusicPlayer::getInstance().play("cubaTheme");
             MusicPlayer::getInstance().setVolume(25);
             m_specialFlashClock.restart();
 

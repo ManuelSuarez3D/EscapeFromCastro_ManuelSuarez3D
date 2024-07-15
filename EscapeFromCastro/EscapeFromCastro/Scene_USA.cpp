@@ -2259,7 +2259,7 @@ void Scene_USA::specialState() {
             auto spriteSize = sprite.getLocalBounds().getSize();
             m_player->addComponent<CBoundingBox>(spriteSize);
 
-            MusicPlayer::getInstance().play("bermudaTheme");
+            MusicPlayer::getInstance().play("usaTheme");
             MusicPlayer::getInstance().setVolume(25);
             m_specialFlashClock.restart();
 

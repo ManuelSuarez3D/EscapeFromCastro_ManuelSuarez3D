@@ -5,7 +5,7 @@
 
 MusicPlayer::MusicPlayer() {
     m_filenames["menuTheme"] = "../assets/Music/dp_menu.flac";
-    m_filenames["gameTheme"] = "../assets/Music/dp_level1.flac";
+    m_filenames["cubaTheme"] = "../assets/Music/dp_level1.flac";
     m_filenames["specialTheme"] = "../assets/Music/dp_special.flac";
     m_filenames["loadingTheme"] = "../assets/Music/dp_loading.flac";
     m_filenames["bermudaTheme"] = "../assets/Music/dp_bermuda.flac";
