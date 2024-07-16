@@ -4,6 +4,14 @@
 # Trailer
 [![Escape From Castro](https://img.youtube.com/vi/v7keaaeaol4/0.jpg)](https://www.youtube.com//watch?v=v7keaaeaol4 "Escape From Castro")
 
+# Instructions
+- Download SFML
+- Set in the solution properties:
+  - C++ -> General
+    - Additional Include Directories: [SFMLDirectory]/include
+  - Linker -> General
+    - Additional Library Directories: [SFMLDirectory]/lib
+  
 # Summary
 "Escape From Castro" is a thrilling adventure game where players assume the role of Fony Tontana, a 30-year-old Cuban refugee escaping Fidel Castro's dictatorship. In this quest, players navigate the perilous waters around Cuba, brave the challenging conditions of the Gulf of Mexico, and strategically reach the coastal waters of the U.S.A. on a boat. Evading wildlife, security forces, and harsh weather, players must survive and ultimately reach the coveted destination of Miami, Florida, for a chance at a better life. 
 
@@ -38,18 +46,11 @@ Level 3
 # Environment
 The crystal blue waters of Cuba and blue skies for level one, with the deep dark vast ocean with storms for level 2, and the waters off the coast of Florida for level 3. Not much variation other than shades of blue and level two being during stormy waters.
 
-# Menus
-- Initial Menu Screen with the option to start, see instructions or quit
-- Death Menu Screen with the option to restart the game or quit.
-
 # Controls
 - Pause - Esc
 - Movement - A, S, W, D
 - Special - Q
 - Shoot - SPACE
-
-# Sounds
-Background music will be Latin American-inspired upbeat music, with sounds for the environment and enemies. For example ocean sounds, storm sounds for level 2, engine, military chatter, and alarms for the enemy's coast guard with varying levels of sophistication between the Cuban and U.S.
 
 # Summary
 If you're a fan of Scarface and want a simple, quick, 2D side-scroller game that doesn't take itself too seriously this game is right for you. The game offers a dynamic blend of survival and strategy, challenging players to make risky maneuvers while immersing them in the gripping narrative of Fony's quest for freedom.
