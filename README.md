@@ -2,6 +2,7 @@
 ### C++ | SFML | Visual Studio Code
 
 # Trailer
+[![Everything Is AWESOME]([https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg](https://img.youtube.com/vi/v7keaaeaol4/0.jpg))](https://www.youtube.com//watch?v=v7keaaeaol4 "Escape From Castro")
 https://youtu.be/v7keaaeaol4
 
 # Summary
