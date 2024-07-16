@@ -51,5 +51,5 @@ ProgressBar 		ProgressBar		252	27
 Chapter3a		Chapter3a		215	152
 Chapter3b		Chapter3b		215	152
 
-Curtain 		Curtain			0	12
+Curtain 		Curtain			0	0
 CurtainTop 		CurtainTop		0	0

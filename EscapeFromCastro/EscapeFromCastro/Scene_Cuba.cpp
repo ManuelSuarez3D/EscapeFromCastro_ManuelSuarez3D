@@ -833,7 +833,7 @@ void Scene_Cuba::sDoAction(const Command& action) {
         else if (action.name() == "RIGHT") { m_player->getComponent<CInput>().RIGHT = true; }
         else if (action.name() == "UP") { m_player->getComponent<CInput>().UP = true; }
         else if (action.name() == "DOWN") { m_player->getComponent<CInput>().DOWN = true; }
-        else if (action.name() == "TOGGLE_COLLISION") { m_drawAABB = !m_drawAABB; }
+        //else if (action.name() == "TOGGLE_COLLISION") { m_drawAABB = !m_drawAABB; }
         else if (action.name() == "PAUSE") { 
             if (!m_isIntro && !m_isEnd) { 
                 setPaused(!m_isPaused); m_isMenu = !m_isMenu;

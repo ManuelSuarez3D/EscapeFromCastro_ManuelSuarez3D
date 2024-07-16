@@ -70,13 +70,9 @@ void Scene_Menu::sDoAction(const Command& action) {
 	if (!m_isPlay) {
 		if (action.type() == "START") {
 
-			if (action.name() == "TOGGLE_COLLISION") { m_drawAABB = !m_drawAABB; }
+			//if (action.name() == "TOGGLE_COLLISION") { m_drawAABB = !m_drawAABB; }
 			if (action.name() == "MOUSE_CLICK") {
 				if (menuState("START")) {
-
-					//m_isOver = true;
-					//writeToLoadingFile("OVER");
-					//m_game->changeScene("LOADING", std::make_shared<Scene_Loading>(m_game, "../assets/loading.txt"));
 
 					m_isCuba = true;
 					writeToLoadingFile("CUBA");
